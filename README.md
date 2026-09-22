@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I am Muhammad Fawad 👋
 
-<!--
-**Iam-MFawad/Iam-MFawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Postdoctoral Research Fellow at Tampere University, Finland,
+with a Ph.D. in Mathematical Statistics.
 
-Here are some ideas to get you started:
+My research combines statistical modeling, machine learning, and
+epidemiology to address real-world health challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research interests
+- Disease prediction and early detection
+- Medication use and cancer risk
+- Cardiometabolic and infectious disease epidemiology
+- Large-scale biomedical data analysis
+
+### Links
+- [Academic website](https://Iam-MFawad.github.io/)
+- [ORCID](https://orcid.org/0000-0001-8921-4248)
+- [Google Scholar](https://scholar.google.com/citations?user=_0g4vREAAAAJ&hl=en)
+- [Portfolio repository](https://github.com/Iam-MFawad/Iam-MFawad.github.io)
