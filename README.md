@@ -1,15 +1,12 @@
 # 💫 About Me
 
-Hi, I am Muhammad Fawad.
-
-I am a researcher working in health data science, combining statistical modeling, machine learning, and epidemiology to better understand and address real-world health challenges.
+Hi, I'm Muhammad Fawad, a researcher in Health Data Science, combining statistical modeling, machine learning, and epidemiology to analyze large-scale biomedical data and address real-world health challenges.
 
 ## 🔬 Research Interests
 
 - Disease prediction and early detection
 - Medication use and cancer risk
 - Cardiometabolic and infectious disease epidemiology
-- Large-scale biomedical data analysis
 
 ## 🌐 Links
 
