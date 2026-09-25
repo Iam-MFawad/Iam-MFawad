@@ -20,7 +20,7 @@ I am a researcher working in health data science, combining statistical modeling
 <p>
 <a href="https://scholar.google.com/citations?user=_0g4vREAAAAJ&amp;hl=en"><img src="assets/profile/google-scholar.png" width="112" height="92" alt="Google Scholar" title="Google Scholar" /></a>
 <a href="https://www.linkedin.com/in/muhammad-fawad-79a3655b/"><img src="assets/profile/linkedin.png" width="112" height="92" alt="LinkedIn" title="LinkedIn" /></a>
-<a href="https://x.com/Iam_mfawad"><img src="assets/profile/x.png" width="112" height="92" alt="X" title="X" /></a>
+<a href="https://x.com/Iam_mfawad"><img src="assets/profile/x.svg" width="112" height="92" alt="X" title="X" /></a>
 <a href="mailto:fawadkhn42@gmail.com"><img src="assets/profile/email.png" width="112" height="92" alt="Email" title="Email" /></a>
 </p>
 
