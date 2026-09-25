@@ -1,0 +1,43 @@
+# Profile icon sources
+
+Logos belong to their respective projects and owners. Images are fitted without changing their aspect ratio. Tiles without a verified logo use a generic initial, not an official logo. CSC and Istekki logos identify providers of SD Desktop and T3.
+- **Python**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg); [project](https://www.python.org/).
+- **NumPy**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg); [project](https://numpy.org/).
+- **pandas**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg); [project](https://pandas.pydata.org/).
+- **SciPy**: [image](https://scipy.org/images/logo.svg); [project](https://scipy.org/).
+- **statsmodels**: [image](https://www.statsmodels.org/stable/_static/statsmodels-logo-v2-no-text.svg); [project](https://www.statsmodels.org/stable/).
+- **scikit-learn**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg); [project](https://scikit-learn.org/stable/).
+- **lifelines**: [image](https://i.imgur.com/EOowdSD.png); [project](https://lifelines.readthedocs.io/en/latest/).
+- **scikit-survival**: generic initial tile; [project](https://scikit-survival.readthedocs.io/).
+- **lmoments3**: generic initial tile; [project](https://lmoments3.readthedocs.io/).
+- **Matplotlib**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg); [project](https://matplotlib.org/).
+- **Plotly**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg); [project](https://plotly.com/python/).
+- **R**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg); [project](https://www.r-project.org/).
+- **stats**: generic initial tile; [project](https://cran.r-project.org/package=stats).
+- **caret**: generic initial tile; [project](https://cran.r-project.org/package=caret).
+- **survival**: [image](https://cran.r-project.org/web/packages/survival/refman/figures/logo.png); [project](https://cran.r-project.org/package=survival).
+- **survminer**: [image](https://raw.githubusercontent.com/kassambara/survminer/master/man/figures/logo.png); [project](https://cran.r-project.org/package=survminer).
+- **lmom**: generic initial tile; [project](https://cran.r-project.org/package=lmom).
+- **lmomco**: generic initial tile; [project](https://cran.r-project.org/package=lmomco).
+- **lmomRFA**: generic initial tile; [project](https://cran.r-project.org/package=lmomRFA).
+- **Lmoments**: generic initial tile; [project](https://cran.r-project.org/package=Lmoments).
+- **TLMoments**: generic initial tile; [project](https://cran.r-project.org/package=TLMoments).
+- **dplyr**: [image](https://dplyr.tidyverse.org/logo.png); [project](https://dplyr.tidyverse.org/).
+- **tidyr**: [image](https://tidyr.tidyverse.org/logo.png); [project](https://tidyr.tidyverse.org/).
+- **ggplot2**: [image](https://ggplot2.tidyverse.org/logo.png); [project](https://ggplot2.tidyverse.org/).
+- **patchwork**: [image](https://patchwork.data-imaginist.com/logo.svg); [project](https://patchwork.data-imaginist.com/).
+- **ggrepel**: [image](https://user-images.githubusercontent.com/209714/200123867-db9bd406-54d7-4ce0-aa09-1ec30740a87a.jpg); [project](https://ggrepel.slowkow.com/).
+- **ggstatsplot**: [image](https://www.indrapatil.com/ggstatsplot/reference/figures/logo.png); [project](https://www.indrapatil.com/ggstatsplot/).
+- **SPSS**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg); [project](https://www.ibm.com/products/spss-statistics).
+- **SAS**: [image](https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg); [project](https://www.sas.com/).
+- **LaTeX**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg); [project](https://www.latex-project.org/).
+- **Anaconda**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg); [project](https://www.anaconda.com/).
+- **CUDA**: [image](https://cdn.simpleicons.org/nvidia/76B900); [project](https://developer.nvidia.com/cuda-toolkit).
+- **PowerShell**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg); [project](https://learn.microsoft.com/powershell/).
+- **Google Cloud**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg); [project](https://cloud.google.com/).
+- **SD Desktop**: [image](https://csc.fi/app/uploads/2023/09/CSC_logo_no_tagline.svg); [project](https://research.csc.fi/service/sd-desktop/).
+- **T3**: [image](https://www.istekki.fi/wp-content/uploads/istekki-logo.png); [project](https://www.istekki.fi/6998-2/).
+- **Google Scholar**: [image](https://cdn.simpleicons.org/googlescholar/4285F4); [project](https://scholar.google.com/citations?user=_0g4vREAAAAJ&hl=en).
+- **LinkedIn**: [image](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg); [project](https://www.linkedin.com/in/muhammad-fawad-79a3655b/).
+- **X**: [image](https://cdn.simpleicons.org/x/000000); [project](https://x.com/Iam_mfawad).
+- **Email**: [image](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg); [project](mailto:fawadkhn42@gmail.com).
